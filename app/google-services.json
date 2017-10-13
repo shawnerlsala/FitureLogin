@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "315507217766",
+    "firebase_url": "https://fituresignin-df643.firebaseio.com",
+    "project_id": "fituresignin-df643",
+    "storage_bucket": "fituresignin-df643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315507217766:android:1bf5ed3049bd0948",
+        "android_client_info": {
+          "package_name": "fitureitproject.shawnerlsala.packagecom.fituresignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315507217766-dkt7n1774jsjr9a6fcu1djku34pqqvqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fitureitproject.shawnerlsala.packagecom.fituresignin",
+            "certificate_hash": "c823ed3e1e10c898e3bdeb5ba959e81fb11d1da2"
+          }
+        },
+        {
+          "client_id": "315507217766-0062ug2l741dphh0ub8skaaeeqin5p3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9GR5TanUBuCYH-feGbwSfkxXeY6-Fw0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315507217766-0062ug2l741dphh0ub8skaaeeqin5p3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
